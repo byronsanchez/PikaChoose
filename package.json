@@ -1,5 +1,5 @@
 {
-    "name": "PikaChoose",
+    "name": "pikachoose",
     "description": "My port of Pikachoose to allow npm installs",
     "version": "4.5.1",
     "homepage": "https://github.com/byronsanchez/PikaChoose",
